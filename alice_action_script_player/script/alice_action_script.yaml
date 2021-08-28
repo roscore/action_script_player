@@ -1,0 +1,1177 @@
+# able action script
+# the argument of "play" cmd is action file page number.
+# the unit for sleep is ms
+# the mp3 file is in the ppc
+
+script1: 
+  cmd1: {cmd_name: play,  cmd_arg: 50}
+  cmd2: {cmd_name: wait}
+  cmd3: {cmd_name: sleep, cmd_arg: 500}
+
+script2: 
+  cmd1: {cmd_name: play,  cmd_arg: 32}
+  cmd2: {cmd_name: wait}
+  cmd3: {cmd_name: sleep, cmd_arg: 500}
+
+script3: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/3.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script4: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/4.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script5: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/5.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 60}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script6: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/6.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 65}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script7: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/7.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 70}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script8: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/8.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script9: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/9.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script10: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/10.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script11: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/11.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 75}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script12: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/12.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 85}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script13: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/13.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 86}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script14: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/14.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 80}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script15: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/15.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 81}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script16: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/16.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 90}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script17: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/17.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 91}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script18: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/18.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 100}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script19: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/19.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script20: 
+  cmd1: {cmd_name: play,  cmd_arg: 95}
+  cmd2: {cmd_name: sleep, cmd_arg: 1000}
+  cmd3: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/20.MP3"}
+  cmd4: {cmd_name: face,  cmd_arg: 3}
+  cmd5: {cmd_name: wait}
+  cmd6: {cmd_name: sleep, cmd_arg: 500}
+
+script21: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/21.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 60}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script22: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/22.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 5}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script23: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/23.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 50}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script24: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/24.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script25: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/25.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 35}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script26: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/26.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script27: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/27.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script28: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/28.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 15}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script29: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/29.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script30: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/30.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 20}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script31: 
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/31.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script32:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/32.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 40}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script33:
+  cmd1: {cmd_name: play,  cmd_arg: 41}
+  cmd2: {cmd_name: face,  cmd_arg: 0}
+  cmd3: {cmd_name: wait}
+  cmd4: {cmd_name: sleep, cmd_arg: 500}
+
+script34:
+  cmd1: {cmd_name: play,  cmd_arg: 1}
+  cmd2: {cmd_name: face,  cmd_arg: 0}
+  cmd3: {cmd_name: wait}
+  cmd4: {cmd_name: sleep, cmd_arg: 500}
+
+script35:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/34.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 105}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script36:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/35.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 110}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script37:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/36.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 111}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: sleep, cmd_arg: 500}
+
+script100:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/99.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 50}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/109.MP3"}
+  cmd6: {cmd_name: face,  cmd_arg: 3}
+  cmd7: {cmd_name: sleep, cmd_arg: 500}
+
+script101:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/99.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 50}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/107.MP3"}
+  cmd6: {cmd_name: face,  cmd_arg: 3}
+  cmd7: {cmd_name: sleep, cmd_arg: 500}
+
+script102:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/99.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 50}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/110.MP3"}
+  cmd6: {cmd_name: face,  cmd_arg: 3}
+  cmd7: {cmd_name: sleep, cmd_arg: 500}
+
+script200:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_1.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script201:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_2.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script202:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_4.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 60}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script203:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_5.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 34}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script204:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_6.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 29}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script205:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/audio_10.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_7.MP3"}
+  cmd6: {cmd_name: play,  cmd_arg: 130}
+  cmd7: {cmd_name: face,  cmd_arg: 3}
+  cmd9: {cmd_name: wait}
+ 
+script206:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_8.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 18}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script207:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_9.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 20}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script208:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_10.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script209:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_11.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script210:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_12.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 130}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script211:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script212:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_14.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 9}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script213:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_15.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 9}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script214:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_16.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 60}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script215:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_17.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 11}
+  cmd3: {cmd_name: face,  cmd_arg: 2}
+  cmd4: {cmd_name: wait}
+ 
+script216:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_18_1.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script217:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_19.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script218:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_20.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 19}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script219:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_21.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 155}
+  cmd3: {cmd_name: face,  cmd_arg: 2}
+  cmd4: {cmd_name: wait}
+ 
+script220:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_22.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 9}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script221:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script222:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script223:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_25.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 28}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script224:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_26.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script225:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/baby_shark.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 27}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script226:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_28.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script227:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_29.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 130}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script228:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_30.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script229:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_31.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 150}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script230:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_32.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script231:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_33.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 36}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script232:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_34.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 36}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script233:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_35.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 8}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script234:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_36.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 9}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script235:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_37.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 34}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script236:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_38.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 23}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script237:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_39.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 165}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script238:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_40.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 145}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script239:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_41.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script240:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 28}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script241:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_43.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 140}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script242:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_44.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 19}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script243:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_44_1.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 19}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script244:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_45.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 160}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script245:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_46.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script246:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_47.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script247:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_52.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 15}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  
+script248:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_53.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 15}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  
+script249:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_54.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 15}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script250:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_55.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 15}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script251:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_59.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 9}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script252:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_60.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 49}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script253:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_61.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 68}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script254:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_62.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 68}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script255:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_63.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 68}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script256:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_64.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 68}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script257:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_65.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 68}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script258:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_66.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 69}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script259:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_67.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 40}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script260:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_68.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 115}
+  cmd3: {cmd_name: face,  cmd_arg: 6}
+  cmd4: {cmd_name: wait}
+
+script261:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_69.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 55}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script262:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_70.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 115}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script263:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_71.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script264:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_72.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 120}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+ 
+script300:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_1.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script301:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_2.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script302:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_4.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script303:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_5.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script304:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_6.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script305:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/audio_10.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+  cmd5: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_7.MP3"}
+  cmd6: {cmd_name: play,  cmd_arg: 3}
+  cmd7: {cmd_name: face,  cmd_arg: 3}
+  cmd9: {cmd_name: wait}
+
+script306:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_8.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script307:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_9.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script308:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_10.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script309:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_11.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script310:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_12.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script311:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script312:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_14.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script313:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_15.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script314:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_16.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script315:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_17.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 2}
+  cmd4: {cmd_name: wait}
+
+script316:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_18.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script317:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_19.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script318:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_20.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script319:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_21.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 2}
+  cmd4: {cmd_name: wait}
+
+script320:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_22.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script321:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script322:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script323:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_25.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script324:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_26.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script325:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script326:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_28.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script327:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_29.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script328:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_30.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script329:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_31.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script330:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_32.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script331:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_33.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script332:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_34.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script333:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_35.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script334:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_36.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script335:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_37.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script336:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_38.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script337:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_39.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script338:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_40.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script339:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_41.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script340:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script341:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_43.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script342:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_44.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script343:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_44_1.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script344:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_45.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script345:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_46.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script346:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_47.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script347:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_52.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+  
+script348:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_53.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+  
+script349:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_54.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script350:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_55.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script351:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_59.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script352:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_60.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script353:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_61.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script354:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_62.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script355:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_63.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script356:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_64.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script357:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_65.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script358:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_66.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script359:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_67.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script360:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_68.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script361:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_69.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script362:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_70.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script363:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_71.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script364:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_72.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 3}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}    
+
+script500:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script501:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 5}
+  cmd4: {cmd_name: wait}  
+
+script510:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_100"}
+  cmd2: {cmd_name: play,  cmd_arg: 165}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script511:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_101"}
+  cmd2: {cmd_name: play,  cmd_arg: 1}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}  
+
+script512:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_102"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 5}
+  cmd4: {cmd_name: wait}  
+
+script513:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_103"}
+  cmd2: {cmd_name: play,  cmd_arg: 21}
+  cmd3: {cmd_name: face,  cmd_arg: 5}
+  cmd4: {cmd_name: wait}    
+
+script514:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_104.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 9}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script515:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/sba_4_1.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 60}
+  cmd3: {cmd_name: face,  cmd_arg: 3}
+  cmd4: {cmd_name: wait}
+
+script516:
+  cmd1: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/wash_hand_tayo.MP3"}
+  cmd2: {cmd_name: play,  cmd_arg: 27}
+  cmd3: {cmd_name: face,  cmd_arg: 8}
+  cmd4: {cmd_name: wait}
+
+script517:
+  cmd1: {cmd_name: video, cmd_arg: 1}
+  cmd2: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/baby_shark_music.MP3"}
+  cmd3: {cmd_name: play,  cmd_arg: 27}
+  cmd4: {cmd_name: face,  cmd_arg: 12}
+  cmd5: {cmd_name: wait}
+  cmd6: {cmd_name: play,  cmd_arg: 171}
+  cmd7: {cmd_name: wait}
+  cmd8: {cmd_name: play,  cmd_arg: 173}
+  cmd9: {cmd_name: wait}
+  cmd10: {cmd_name: video, cmd_arg: -1}
+
+script518:
+  cmd1: {cmd_name: video, cmd_arg: 3}
+  cmd2: {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/baby_shark_hand_wash.MP3"}
+  cmd3: {cmd_name: sleep, cmd_arg: 9600} 
+  cmd4: {cmd_name: play,  cmd_arg: 27}
+  cmd5: {cmd_name: face,  cmd_arg: 11}
+  cmd6: {cmd_name: wait}
+  cmd7: {cmd_name: play,  cmd_arg: 171}
+  cmd8: {cmd_name: wait}
+  cmd9: {cmd_name: play,  cmd_arg: 173}
+  cmd10: {cmd_name: wait}
+  cmd11: {cmd_name: play,  cmd_arg: 27}
+  cmd12: {cmd_name: face,  cmd_arg: 11}
+  cmd13: {cmd_name: wait}
+  cmd14: {cmd_name: play,  cmd_arg: 171}
+  cmd15: {cmd_name: wait}
+  cmd16: {cmd_name: play,  cmd_arg: 173}
+  cmd17: {cmd_name: wait}
+  cmd18: {cmd_name: video, cmd_arg: -1}
+
+script519:
+  cmd1:   {cmd_name: video, cmd_arg: 2}
+  cmd2:   {cmd_name: mp3,   cmd_arg: "/home/xavier/Music/able/tayo_wash_hand.MP3"}
+  cmd3:   {cmd_name: play,  cmd_arg: 180}
+  cmd4:   {cmd_name: face,  cmd_arg: 10}
+  cmd5:   {cmd_name: sleep, cmd_arg: 9000}
+  cmd6:   {cmd_name: face,  cmd_arg: 11}
+  cmd7:   {cmd_name: sleep, cmd_arg: 7000}
+  cmd8:   {cmd_name: face,  cmd_arg: 10}
+  cmd9:   {cmd_name: sleep, cmd_arg: 25500}
+  cmd10:  {cmd_name: face,  cmd_arg: 9}
+  cmd11:  {cmd_name: sleep, cmd_arg: 2000}
+  cmd12:  {cmd_name: face,  cmd_arg: 10}
+  cmd13:  {cmd_name: sleep, cmd_arg: 24000}
+  cmd14:  {cmd_name: face,  cmd_arg: 9}
+  cmd15:  {cmd_name: wait}
+  cmd16:  {cmd_name: video, cmd_arg: -1}
